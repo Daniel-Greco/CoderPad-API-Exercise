@@ -12,9 +12,14 @@ An example:
 Request: "https://www.premierleague.com/clubs/10/Liverpool/overview"
 Response: "https://resources.premierleague.com/premierleague/badges/t14.png"
 
-You can use C++, Java, JavaScript, Python or Ruby. Some of these languages have request libraries. Others you will have to use the language's default HTTP methods. To see the available packages/libraries for the language you choose, simply click on the info button located next to the language.
+You can use C++, Java, JavaScript, Python or Ruby. Some of these languages have request libraries. 
+Others you will have to use the language's default HTTP methods. 
+To see the available packages/libraries for the language you choose, simply click on the info button located next to the language.
 
-We have included test cases that will allow you to see if your code will pass or fail. The string must match exactly to pass. In the case of no image in the page, please return the message "No image found!". To view the test cases, you can view the test case tab, or when you run the code, you will see each test in the console and whether it failed or passed. You can log your output in the console at any time as well.
+We have included test cases that will allow you to see if your code will pass or fail. 
+The string must match exactly to pass. In the case of no image in the page, please return the message "No image found!". 
+To view the test cases, you can view the test case tab, or when you run the code, you will see each test in the console and whether it failed or passed. 
+You can log your output in the console at any time as well.
 
 Good luck!
 ```
@@ -35,7 +40,7 @@ Good luck!
 ## Usage
 
 Flags are used to add optional features:
-* URL  : The premier leauge team page to search for the logo. 
+* URL  : The premier league team page to search for the logo. 
 
 To run the base application from command line:
 ```bash
