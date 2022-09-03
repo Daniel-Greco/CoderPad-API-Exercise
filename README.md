@@ -3,7 +3,7 @@
 Exercise provided by CoderPad: https://coderpad.io/resources/docs/question-bank/example-questions/#http-api-calls
 
 This is one solution to the practice exercise provided by CoderPad. Description of the exercise provided by CoderPad:
-```bash
+```
 Your task is to create a function that makes an API call to request an HTML page, and parse through the HTML to retrieve a soccer team's logo.
 
 This function should work for every single team page from https://www.premierleague.com link. In the case the URL is not valid - you should return an error message.
