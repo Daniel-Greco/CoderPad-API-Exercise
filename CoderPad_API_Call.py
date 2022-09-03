@@ -39,10 +39,8 @@ def solution(url):
     # Return the required string.
     return return_string
 
-
-# Main function to run from.
-if __name__ == '__main__':
-
+# Main function to run code.
+def main():
     # Take command line arguments.
     argument_list = sys.argv
     argument_length = len(sys.argv)
@@ -57,3 +55,9 @@ if __name__ == '__main__':
         url_input = argument_list[1]
         solution_string = solution(url_input)
         print(solution_string)
+
+# Main function to run from.
+if __name__ == '__main__':
+
+    # Run main method.
+    main()
